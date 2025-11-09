@@ -1,0 +1,35 @@
+Simple Book Store
+
+
+1. Add Books
+    -If need add more books information then click
+    -Enter necessary information about book and click the <Add Book> button
+
+2. Manage Books
+    1. CSV File
+        -Generate a CSV file named 'book_info.csv'
+
+    2. Add Book
+        -If need add more books information then click
+        -Enter necessary information about book and click the <Add Book> button
+        -If no need then cancel the process by clicking <Cancel> button
+
+    3. Update
+        -If need change information about book then select any from the table and click <Update> button
+        -Then change the information and click the <Update> button
+        -If no need then cancel the process by clicking <Cancel> button
+
+    4. Details
+        -If you want show the details about book then select any from the table and click <Details> button
+        -And if need change information about book then click <Edit Info> button
+        -Then change the information and click the <Update> button
+        -If no need then cancel the process by clicking <Cancel> button
+
+    5. Delete
+        -If you want to delete any book information then first select any from the table and click <Delete> button
+
+    6. Text File
+        -Generate a TEXT file with name is 'book_info.txt'
+
+
+    REfresh: Refresh or reload the table data (If click)
